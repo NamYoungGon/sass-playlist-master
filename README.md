@@ -1,5 +1,4 @@
 # sass-playlist-master
-sass study
 
 https://prepros.io/downloads 에서 windows 용 다운로드
 
@@ -11,8 +10,7 @@ https://prepros.io/downloads 에서 windows 용 다운로드
 
 한마디로 노트패드든 이클립스든 scss 에서 자유롭게 작업하면 /scss/style.scss -> 컴파일 -> /css/style.css 
 
-
-
+---------------------------------------------------------------------------
 
 Sass 에는 많은 함수들이 있음
 - http://sass-lang.com/documentation/Sass/Script/Functions.html
